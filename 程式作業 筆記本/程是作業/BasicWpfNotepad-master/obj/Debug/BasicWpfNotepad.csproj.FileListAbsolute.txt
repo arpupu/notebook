@@ -1,0 +1,42 @@
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\bin\Debug\BasicWpfNotepad.exe.config
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\bin\Debug\BasicWpfNotepad.exe
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\bin\Debug\BasicWpfNotepad.pdb
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.csprojResolveAssemblyReference.cache
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\MainWindow.g.cs
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\App.g.cs
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad_MarkupCompile.cache
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad_MarkupCompile.lref
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\MainWindow.baml
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.g.resources
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.Properties.Resources.resources
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.csproj.GenerateResource.Cache
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.exe
+C:\Users\C618-8\Desktop\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.pdb
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\bin\Debug\BasicWpfNotepad.exe.config
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.exe
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.pdb
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.csprojResolveAssemblyReference.cache
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\MainWindow.g.cs
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\App.g.cs
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad_MarkupCompile.cache
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad_MarkupCompile.lref
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\bin\Debug\BasicWpfNotepad.exe
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\bin\Debug\BasicWpfNotepad.pdb
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\MainWindow.baml
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.g.resources
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.Properties.Resources.resources
+C:\Users\c618-2\Desktop\1563\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.csproj.GenerateResource.Cache
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\bin\Debug\BasicWpfNotepad.exe.config
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.exe
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.pdb
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\bin\Debug\BasicWpfNotepad.exe
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\bin\Debug\BasicWpfNotepad.pdb
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.csprojResolveAssemblyReference.cache
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\MainWindow.g.cs
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\App.g.cs
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad_MarkupCompile.cache
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad_MarkupCompile.lref
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\MainWindow.baml
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.g.resources
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.Properties.Resources.resources
+C:\Users\w401\Desktop\筆記本\程式作業 筆記本\程是作業\BasicWpfNotepad-master\obj\Debug\BasicWpfNotepad.csproj.GenerateResource.Cache
